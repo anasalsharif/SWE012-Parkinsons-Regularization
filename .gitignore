@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.png
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# PyTorch
+*.pth
+*.pt
