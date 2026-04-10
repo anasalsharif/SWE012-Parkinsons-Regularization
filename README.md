@@ -10,17 +10,16 @@ The Parkinson's Disease dataset (Little et al., 2008) contains 195 voice recordi
 ### Key Research Question
 > *Given a small, high-dimensional biomedical dataset where overfitting is near-certain, which regularization strategy — L2 weight decay, Dropout, L1 sparsity, or Early Stopping — provides the best generalization, and why?*
 
-##  Repository Structure
+## 📁 Repository Structure
 ```
-├── project.ipynb        # Main Jupyter Notebook (Executed & Verified)
-├── project.html         # Professional Web Report (View in Browser)
-├── project_presentation.pptx # Findings Presentation (PowerPoint)
-├── figures/             # Directory containing all 7 analysis plots
-├── parkinsons.data      # Dataset (UCI local fallback)
-├── parkinsons.names     # Dataset documentation
-├── requirements.txt     # Python dependencies
-├── README.md            # Project documentation (this file)
-└── .gitignore           # Git ignore file
+├── project.ipynb           # Main Jupyter Notebook (Executed & Verified)
+├── project.html            # Professional Web Report (View in Browser)
+├── AnasAlsharif200722051.pptx # Findings Presentation (PowerPoint)
+├── figures/                # Directory containing all 7 analysis plots
+├── parkinsons.data         # Dataset (UCI local fallback)
+├── requirements.txt        # Python dependencies
+├── README.md               # Project documentation (this file)
+└── .gitignore              # Git ignore file
 ```
 
 ## Setup and Installation
